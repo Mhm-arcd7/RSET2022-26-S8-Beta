@@ -35,8 +35,9 @@ This repository contains all the source code and final reports for the final yea
 - Jose Chemmanoor (U2203122)
 - Joyal George Joseph (U2203123)
 
-**Guide:** Dr. Amitha Mathew
----
+**Guide:** Dr. Sminu Izudheen
+
+
 ### Group 15
 **Project:** [Corporate Email Summarization and Task Extraction](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%2015%20Corporate%20Email%20Summarization%20and%20Task%20Extraction)
 **Members:**

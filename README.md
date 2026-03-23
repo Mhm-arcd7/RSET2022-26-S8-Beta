@@ -6,16 +6,6 @@ This repository contains all the source code and final reports for the final yea
 
 ## Projects
 
-### Group 1
-**Project:** [SweepX: Solar Panel Cleaning Drone](https://github.com/jacobthh/RSET2022-26-S8-Beta/tree/main/SweepX-Group%201)
-**Members:**
-- E A Aamil Haq (U2203084)
-- Farhan Noushad (U2203092)
-- Jacob Thomas (U2203107)
-- Mohammed Shafi (U2203143)
-
-**Guide:** Mr. Biju Abraham Narayamparambil
-
 ### Group 6
 **Project:** [TITAN: Trash Interception and Termination Autonomous Navigator](https://github.com/GeorgeET15/RSET2022-26-S8-Beta/tree/main/TITAN%3A%20Trash%20Interception%20and%20Termination%20Autonomous%20%20Navigator)
 **Members:**
@@ -25,7 +15,17 @@ This repository contains all the source code and final reports for the final yea
 - Liya Jacob (U2203134)
 
 **Guide:** Dr. Jincy J. Fernandez
+##
 
+### Group 7
+**Project:** [SEISMICO: Seismic Monitoring using Distributed Acoustic Sensing]([GROUP-7-Seismic-Monitoring-using-Distributive-Acoustic-Sensing](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/2b00c3013b4f4f00d280e11fa0cb52436fc453a2/GROUP-7-Seismic-Monitoring-using-Distributive-Acoustic-Sensing))
+**Members:**
+- Jala Vishwa Keerthi (U2203109)
+- Cyriac James Boby (U2203073)
+- Joash Roy (U2203115)
+- Johan B. Agustine (U2203119)
+
+**Guide:** Dr. Amitha Mathew
 ---
 
 > **Note for other groups:** 

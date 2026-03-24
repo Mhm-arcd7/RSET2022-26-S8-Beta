@@ -1,0 +1,121 @@
+.image-page {
+  padding: 60px 80px;
+  color: white;
+}
+
+.image-page h2 {
+  margin-bottom: 25px;
+  font-size: 28px;
+}
+
+/* Mode toggle */
+.mode-toggle {
+  margin-bottom: 20px;
+  display: flex;
+  gap: 12px;
+}
+
+.mode-toggle button {
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: 1px solid #444;
+  background: #111;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.mode-toggle button.active {
+  background: linear-gradient(135deg, #ff2d55, #ff3b30);
+  border: none;
+}
+
+.mode-toggle button:hover {
+  background: #222;
+}
+
+/* Canvas */
+canvas {
+  margin-top: 15px;
+  border: 1px solid #333;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 100%;
+  max-width: 900px;
+  display: block;
+}
+
+/* Selection count */
+.image-page > div {
+  margin-top: 15px;
+  font-size: 15px;
+  opacity: 0.9;
+}
+
+/* Primary Red Button */
+.image-page button {
+  margin-top: 20px;
+  padding: 14px 30px;
+  border-radius: 30px;
+  border: none;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.image-page button:first-of-type {
+  background: linear-gradient(135deg, #ff2d55, #ff3b30);
+  color: white;
+  width: 100%;
+  max-width: 400px;
+}
+
+.image-page button:first-of-type:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(255, 45, 85, 0.4);
+}
+
+/* Secondary button */
+.image-page button:last-of-type {
+  background: transparent;
+  border: 1px solid #555;
+  color: #ccc;
+  margin-left: 15px;
+}
+
+.image-page button:last-of-type:hover {
+  background: #222;
+  border-color: #ff2d55;
+  color: white;
+}
+
+/* Download Section */
+.image-page img {
+  margin-top: 20px;
+  max-width: 100%;
+  border-radius: 10px;
+  border: 1px solid #333;
+}
+
+.image-page a {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 25px;
+  background: linear-gradient(135deg, #ff2d55, #ff3b30);
+  border-radius: 25px;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+.image-page a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(255, 45, 85, 0.4);
+}
+canvas {
+  width: 100%;
+  max-width: 900px;
+  display: block;
+}

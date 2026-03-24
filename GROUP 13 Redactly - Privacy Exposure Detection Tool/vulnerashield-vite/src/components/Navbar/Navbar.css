@@ -1,0 +1,31 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 60px;
+  background: linear-gradient(to bottom, #111, #000);
+  color: white;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+  color: #ff1e1e;
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+}
+
+.nav-links li {
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.cta {
+  background: #ff1e1e;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
